@@ -2,11 +2,11 @@
 
 **Espace de référence francophone sur le marketing B2B et l'IA.** Nous publions en accès libre ce que nous testons sur notre propre dispositif : des packs de méthode, des méthodes pas à pas avec l'exemple complet du livrable, un glossaire, des mesures. Erreurs comprises.
 
-Tout se lit sans compte sur **[markentiq.com](https://markentiq.com)**.
+Tout se lit sans compte sur **[markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=profil&utm_content=readme-intro)**.
 
 ## Où sont les packs
 
-**Les packs de méthode se lisent et se téléchargent sur [markentiq.com](https://markentiq.com).** C'est là qu'ils sont publiés, en accès libre.
+**Les packs de méthode se lisent et se téléchargent sur [markentiq.com](https://markentiq.com/ressources.html?utm_source=github&utm_medium=profil&utm_content=readme-packs).** C'est là qu'ils sont publiés, en accès libre.
 
 Ici, les dépôts sont privés. Ils portent les versions de travail, ouvertes aux membres du Lab TIQ, au cas par cas. Pour demander un accès : contact@markentiq.com.
 
@@ -38,7 +38,7 @@ Le Lab TIQ est le cercle francophone de praticiens qui entoure MarkenTIQ. TIQ no
 
 ## Nous joindre
 
-Le site : [markentiq.com](https://markentiq.com) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · Email : contact@markentiq.com
+Le site : [markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=profil&utm_content=readme-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · Email : contact@markentiq.com
 
 Basé à Lille, présent à Bruxelles et Paris, à distance en Europe.
 
