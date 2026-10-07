@@ -20,38 +20,38 @@ Le GEO (Generative Engine Optimization : rendre une marque visible et correcteme
 
 Construire son positionnement et sa base de messages. Un pack de gabarits, piloté par une Skill : `positioning-orchestrateur`.
 
-### Pack SEO Skills · 22 Skills
+### Pack SEO Skills · 23 Skills
 
 Le référencement outillé par l'IA.
 
 - **Stratégie** : `strategie-orchestrateur`, `strategie-etat-des-lieux`
-- **Technique** : `technique-audit-technique`, `technique-donnees-structurees`, `technique-images-et-medias`, `technique-seo-local`, `technique-sitemap-et-crawl`, `technique-suivi-des-derives`
+- **Technique** : `technique-audit-technique`, `technique-donnees-structurees`, `technique-images-et-medias`, `technique-seo-local`, `technique-sitemap-et-crawl`, `technique-suivi-des-derives`, `technique-lecture-ga4`
 - **Contenu** : `contenu-audit-de-contenu`, `contenu-brief-de-contenu`, `contenu-cluster-de-mots-cles`, `contenu-niche-de-mots-cles`, `contenu-opportunites-de-proximite`, `contenu-optimisation-experience-recherche`, `contenu-page-de-service`, `contenu-pages-concurrentes`
 - **Concurrence** : `concurrence-analyse-de-page`, `concurrence-analyse-publicitaire`, `concurrence-ecart-de-backlinks`, `concurrence-ecart-de-mots-cles`, `concurrence-profil-de-backlinks`, `concurrence-sous-domaines-et-structure`
 
-### Pack Marketing Skills · 39 Skills en 9 familles
+### Pack Marketing Skills · 41 Skills en 9 familles
 
 De la prospection au pilotage.
 
 - **Stratégie** : `strategie-allocation-budget`, `strategie-architecture-gtm`, `strategie-plan-marketing-trimestriel`, `strategie-strategie-de-campagne`
-- **Prospection** : `prospection-conversations-entrantes-linkedin`, `prospection-email-a-froid-personnalise`, `prospection-prospection-sur-signaux`, `prospection-sequence-linkedin`, `prospection-strategie-de-prospection-icp`
+- **Prospection** : `prospection-liste-des-comptes-cibles`, `prospection-conversations-entrantes-linkedin`, `prospection-email-a-froid-personnalise`, `prospection-prospection-sur-signaux`, `prospection-sequence-linkedin`, `prospection-strategie-de-prospection-icp`
 - **Demand gen** : `demand-gen-aimant-a-leads`, `demand-gen-campagne-abm`, `demand-gen-campagne-multicanale`, `demand-gen-webinaire`
 - **Contenu** : `contenu-brief-creatif`, `contenu-cas-client`, `contenu-page-d-atterrissage`, `contenu-publicites-multi-angles`, `contenu-redaction-voix-de-marque`, `contenu-sequence-email-nurture`
 - **Social** : `social-contenu-dirigeant`, `social-optimisation-engagement`, `social-profil-linkedin`, `social-reemploi-de-contenus`, `social-strategie-linkedin`
 - **Concurrence** : `concurrence-battlecard`, `concurrence-page-comparative`, `concurrence-reponse-objection-concurrent`, `concurrence-veille-concurrentielle`
 - **Vente** : `vente-business-case-executif`, `vente-plan-d-action-mutuel`, `vente-preparation-rdv-decouverte`, `vente-presentation-commerciale`, `vente-reponses-aux-objections`
 - **Pipeline** : `pipeline-diagnostic-risque-deal`, `pipeline-priorisation-pipeline`, `pipeline-relance-opportunite-dormante`
-- **Pilotage** : `pilotage-audit-de-funnel`, `pilotage-plan-de-tests-ab`, `pilotage-synthese-pipeline-mensuelle`
+- **Pilotage** : `pilotage-donnees-lisibles-par-un-agent`, `pilotage-audit-de-funnel`, `pilotage-plan-de-tests-ab`, `pilotage-synthese-pipeline-mensuelle`
 
-### Pack BtoB Ads Skills · 11 Skills en 5 familles
+### Pack BtoB Ads Skills · 12 Skills en 5 familles
 
-Piloter Google Ads et LinkedIn Ads en cycles de 15 jours, avec des validations humaines avant toute dépense. Publié le 24/09/2026 en v1.0.
+Piloter Google Ads et LinkedIn Ads en cycles de 15 jours, avec des validations humaines avant toute dépense. Version 1.1 du 07/10/2026.
 
 - **Stratégie** : `ads-strategie-orchestrateur`
 - **Préparation** : `ads-preparation-plan-de-compte`, `ads-preparation-plan-de-mesure`, `ads-preparation-pipeline-canonique`
 - **Création** : `ads-creation-kit-creatif-par-canal`
 - **Pilotage** : `ads-pilotage-plan-de-lancement`, `ads-pilotage-revue-de-cycle`, `ads-pilotage-lecture-pipeline`, `ads-pilotage-plan-d-investissement`
-- **Entretien** : `ads-entretien-veille-crea-concurrents`, `ads-entretien-controle-regulier`
+- **Entretien** : `ads-entretien-veille-crea-concurrents`, `ads-entretien-controle-regulier`, `ads-entretien-tri-des-requetes`
 
 ## Comment s'en servir
 
@@ -69,7 +69,7 @@ Le Lab TIQ est le cercle francophone de praticiens qui entoure MarkenTIQ. TIQ no
 
 ## Nous joindre
 
-Le site : [markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=referral&utm_campaign=profil-github&utm_content=readme-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · YouTube : [MarkenTIQ Lab](https://www.youtube.com/@MarkenTIQlab) · Email : contact@markentiq.com
+Le site : [markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=referral&utm_campaign=profil-github&utm_content=readme-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · YouTube : [MarkenTIQ Lab](https://www.youtube.com/@MarkenTIQlab) · X : [@markentiq](https://x.com/markentiq) · Email : contact@markentiq.com
 
 Basé à Lille, présent à Bruxelles et Paris, à distance en Europe.
 
