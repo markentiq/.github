@@ -2,11 +2,11 @@
 
 **Espace de référence francophone sur le marketing B2B et l'IA.** Nous publions en accès libre ce que nous testons sur notre propre dispositif : des packs de méthode, des méthodes pas à pas avec l'exemple complet du livrable, un glossaire, des mesures. Erreurs comprises.
 
-Tout se lit sans compte sur **[markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=referral&utm_campaign=profil-github&utm_content=readme-intro)**.
+Tout se lit sans compte sur **[markentiq.com](https://markentiq.com/l/gh-intro)**.
 
 ## Où sont les packs
 
-**Les packs se téléchargent sur [markentiq.com](https://markentiq.com/ressources.html?utm_source=github&utm_medium=referral&utm_campaign=profil-github&utm_content=readme-packs)**, gratuitement, contre une adresse email confirmée : c'est ce qui nous permet de recevoir vos retours d'usage et de vous prévenir des nouvelles versions. Ils ne sont pas publiés sur GitHub.
+**Les packs se téléchargent sur [markentiq.com](https://markentiq.com/l/gh-packs)**, gratuitement, contre une adresse email confirmée : c'est ce qui nous permet de recevoir vos retours d'usage et de vous prévenir des nouvelles versions. Ils ne sont pas publiés sur GitHub.
 
 ## Les packs et leurs Skills
 
@@ -29,14 +29,14 @@ Le référencement outillé par l'IA.
 - **Contenu** : `contenu-audit-de-contenu`, `contenu-brief-de-contenu`, `contenu-cluster-de-mots-cles`, `contenu-niche-de-mots-cles`, `contenu-opportunites-de-proximite`, `contenu-optimisation-experience-recherche`, `contenu-page-de-service`, `contenu-pages-concurrentes`
 - **Concurrence** : `concurrence-analyse-de-page`, `concurrence-analyse-publicitaire`, `concurrence-ecart-de-backlinks`, `concurrence-ecart-de-mots-cles`, `concurrence-profil-de-backlinks`, `concurrence-sous-domaines-et-structure`
 
-### Pack Marketing Skills · 41 Skills en 9 familles
+### Pack Marketing Skills · plus de 40 Skills en 9 familles
 
 De la prospection au pilotage.
 
 - **Stratégie** : `strategie-allocation-budget`, `strategie-architecture-gtm`, `strategie-plan-marketing-trimestriel`, `strategie-strategie-de-campagne`
 - **Prospection** : `prospection-liste-des-comptes-cibles`, `prospection-conversations-entrantes-linkedin`, `prospection-email-a-froid-personnalise`, `prospection-prospection-sur-signaux`, `prospection-sequence-linkedin`, `prospection-strategie-de-prospection-icp`
 - **Demand gen** : `demand-gen-aimant-a-leads`, `demand-gen-campagne-abm`, `demand-gen-campagne-multicanale`, `demand-gen-webinaire`
-- **Contenu** : `contenu-brief-creatif`, `contenu-cas-client`, `contenu-page-d-atterrissage`, `contenu-publicites-multi-angles`, `contenu-redaction-voix-de-marque`, `contenu-sequence-email-nurture`
+- **Contenu** : `contenu-brief-creatif`, `contenu-cas-client`, `contenu-page-d-atterrissage`, `contenu-publicites-multi-angles`, `contenu-redaction-voix-de-marque`, `contenu-relecture-tics-ia`, `contenu-sequence-email-nurture`
 - **Social** : `social-contenu-dirigeant`, `social-optimisation-engagement`, `social-profil-linkedin`, `social-reemploi-de-contenus`, `social-strategie-linkedin`
 - **Concurrence** : `concurrence-battlecard`, `concurrence-page-comparative`, `concurrence-reponse-objection-concurrent`, `concurrence-veille-concurrentielle`
 - **Vente** : `vente-business-case-executif`, `vente-plan-d-action-mutuel`, `vente-preparation-rdv-decouverte`, `vente-presentation-commerciale`, `vente-reponses-aux-objections`
@@ -69,7 +69,7 @@ Le Lab TIQ est le cercle francophone de praticiens qui entoure MarkenTIQ. TIQ no
 
 ## Nous joindre
 
-Le site : [markentiq.com](https://markentiq.com/?utm_source=github&utm_medium=referral&utm_campaign=profil-github&utm_content=readme-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · YouTube : [MarkenTIQ Lab](https://www.youtube.com/@MarkenTIQlab) · X : [@markentiq](https://x.com/markentiq) · Email : contact@markentiq.com
+Le site : [markentiq.com](https://markentiq.com/l/gh-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · YouTube : [MarkenTIQ Lab](https://www.youtube.com/@MarkenTIQlab) · X : [@markentiq](https://x.com/markentiq) · Email : contact@markentiq.com
 
 Basé à Lille, présent à Bruxelles et Paris, à distance en Europe.
 
