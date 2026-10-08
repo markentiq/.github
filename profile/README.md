@@ -20,7 +20,7 @@ Le GEO (Generative Engine Optimization : rendre une marque visible et correcteme
 
 Construire son positionnement et sa base de messages. Un pack de gabarits, piloté par une Skill : `positioning-orchestrateur`.
 
-### Pack SEO Skills · 23 Skills
+### Pack SEO Skills · 24 Skills
 
 Le référencement outillé par l'IA.
 
@@ -28,6 +28,7 @@ Le référencement outillé par l'IA.
 - **Technique** : `technique-audit-technique`, `technique-donnees-structurees`, `technique-images-et-medias`, `technique-seo-local`, `technique-sitemap-et-crawl`, `technique-suivi-des-derives`, `technique-lecture-ga4`
 - **Contenu** : `contenu-audit-de-contenu`, `contenu-brief-de-contenu`, `contenu-cluster-de-mots-cles`, `contenu-niche-de-mots-cles`, `contenu-opportunites-de-proximite`, `contenu-optimisation-experience-recherche`, `contenu-page-de-service`, `contenu-pages-concurrentes`
 - **Concurrence** : `concurrence-analyse-de-page`, `concurrence-analyse-publicitaire`, `concurrence-ecart-de-backlinks`, `concurrence-ecart-de-mots-cles`, `concurrence-profil-de-backlinks`, `concurrence-sous-domaines-et-structure`
+- **Renvoi** : `geo-renvoi`, qui oriente vers le Pack GEO
 
 ### Pack Marketing Skills · plus de 40 Skills en 9 familles
 
@@ -45,7 +46,7 @@ De la prospection au pilotage.
 
 ### Pack BtoB Ads Skills · 12 Skills en 5 familles
 
-Piloter Google Ads et LinkedIn Ads en cycles de 15 jours, avec des validations humaines avant toute dépense. Version 1.1 du 07/10/2026.
+Piloter Google Ads et LinkedIn Ads en cycles de 15 jours, avec des validations humaines avant toute dépense. Version 1.1.1 du 08/10/2026.
 
 - **Stratégie** : `ads-strategie-orchestrateur`
 - **Préparation** : `ads-preparation-plan-de-compte`, `ads-preparation-plan-de-mesure`, `ads-preparation-pipeline-canonique`
@@ -57,7 +58,7 @@ Piloter Google Ads et LinkedIn Ads en cycles de 15 jours, avec des validations h
 
 Prenez le fichier de la Skill, donnez-le à votre assistant IA avec vos propres données, et lisez ce qui sort. Les Skills sont écrites pour être exécutées telles quelles, sans outil propriétaire ni dépendance à un modèle particulier.
 
-Si le résultat vous surprend, en bien ou en mal, dites-le nous : les retours d'usage orientent les corrections et les prochaines publications.
+Si le résultat vous surprend, en bien ou en mal, dites-le-nous : les retours d'usage orientent les corrections et les prochaines publications.
 
 ## Licence
 
