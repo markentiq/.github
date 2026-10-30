@@ -1,12 +1,12 @@
 # MarkenTIQ
 
-**Espace de référence francophone sur le marketing B2B et l'IA.** Nous publions en accès libre ce que nous testons sur notre propre dispositif : des packs de méthode, des méthodes pas à pas avec l'exemple complet du livrable, un glossaire, des mesures. Erreurs comprises.
+**Laboratoire ouvert du marketing B2B et de l'IA.** Nous publions en accès libre ce que nous testons sur notre propre dispositif : des packs de Skills et méthodes marketing B2B exécutables par un assistant IA, des méthodes pas à pas avec l'exemple complet du livrable, des modèles, des guides, des relevés, un glossaire et nos mesures. Erreurs comprises.
 
 Tout se lit sans compte sur **[markentiq.com](https://markentiq.com/l/gh-intro)**.
 
 ## Où sont les packs
 
-**Les packs se téléchargent sur [markentiq.com](https://markentiq.com/l/gh-packs)**, gratuitement, contre une adresse email confirmée : c'est ce qui nous permet de recevoir vos retours d'usage et de vous prévenir des nouvelles versions. Ils ne sont pas publiés sur GitHub.
+**Les packs se téléchargent sur [markentiq.com](https://markentiq.com/l/gh-packs)**, gratuitement, contre une adresse email confirmée : c'est ce qui nous permet de recevoir vos retours d'usage et de vous prévenir des nouvelles versions. Ils ne sont pas publiés sur GitHub : le dépôt [skills-marketing-b2b](https://github.com/MarkenTIQ/skills-marketing-b2b) donne la description complète de chacune des 80 Skills, et une Skill en entier à titre d'exemple.
 
 ## Les packs et leurs Skills
 
@@ -30,7 +30,7 @@ Le référencement outillé par l'IA.
 - **Concurrence** : `concurrence-analyse-de-page`, `concurrence-analyse-publicitaire`, `concurrence-ecart-de-backlinks`, `concurrence-ecart-de-mots-cles`, `concurrence-profil-de-backlinks`, `concurrence-sous-domaines-et-structure`
 - **Renvoi** : `geo-renvoi`, qui oriente vers le Pack GEO
 
-### Pack Marketing Skills · plus de 40 Skills en 9 familles
+### Pack Marketing Skills · 42 Skills en 9 familles
 
 De la prospection au pilotage.
 
@@ -62,7 +62,7 @@ Si le résultat vous surprend, en bien ou en mal, dites-le-nous : les retours d'
 
 ## Licence
 
-Usage libre, avec mention de l'auteur. Vous pouvez lire, exécuter, adapter et redistribuer, y compris dans un cadre professionnel, à condition de citer MarkenTIQ.
+Usage libre, avec la mention « Julien Fauvel · MarkenTIQ · markentiq.com ». Vous pouvez utiliser les packs et les Skills, y compris dans un cadre professionnel, les adapter et en partager des extraits. Vous ne pouvez pas les revendre ni les republier intégralement ailleurs. Le détail : [la licence](https://markentiq.com/l/gh-licence).
 
 ## Le Lab TIQ
 
