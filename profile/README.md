@@ -72,6 +72,4 @@ Le Lab TIQ est le cercle francophone de praticiens qui entoure MarkenTIQ. TIQ no
 
 Le site : [markentiq.com](https://markentiq.com/l/gh-pied) · LinkedIn : [MarkenTIQ](https://www.linkedin.com/company/markentiq/) · YouTube : [MarkenTIQ Lab](https://www.youtube.com/@MarkenTIQlab) · X : [@markentiq](https://x.com/markentiq) · Email : contact@markentiq.com
 
-Basé à Lille, présent à Bruxelles et Paris, à distance en Europe.
-
 **Orchestrer, automatiser, mesurer. Améliorer.**
